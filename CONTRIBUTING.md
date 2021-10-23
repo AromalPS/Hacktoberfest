@@ -1,1 +1,1 @@
-- To contribute, add an image of a place that you have visited along with the location in the HTML file. To know more check out the comments in index.html
+- To contribute, add any C, C++, Python, PHP code that is functional in the respective folder of the programming language.

@@ -12,3 +12,4 @@ if (count == 0 and Number != 1):
     print(" %d is a Prime Number" %Number)
 else:
     print(" %d is not a Prime Number" %Number)
+# End of the program
